@@ -361,7 +361,7 @@
   }
   .content .content__container__center-top img {
     width: 304px;
-    height: 127px;
+    height: 100px;
     -o-object-fit: cover;
     object-fit: cover;
   }
@@ -370,6 +370,7 @@
   }
   .content .content__container__center-footer {
     width: 304px;
+    height: 60vh;
   }
   .content .content__container__center-center-team-score {
     width: unset;
@@ -391,5 +392,9 @@
     overflow: hidden;
     text-overflow: ellipsis;
     margin: 0;
+  }
+
+  .content {
+    align-items: start;
   }
 } /*# sourceMappingURL=styles.css.map */
