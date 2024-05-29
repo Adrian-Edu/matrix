@@ -58,3 +58,9 @@ The project should work right after opening the .html file in browser.  In cas
 // de pus indicatoarele la cele 3 base
 // trimis lui Denis pentru verificare
 // facut partea de tableta si mobile
+
+//
+
+Ar fi recomandata folosirea claselor reutilizabile - au fost aplicate clase specifice '-base-1, -base-2, ... -base-9'.
+
+Specificitatea este crescuta pe unele elemente (primary-button) fara sa fie necesar.
